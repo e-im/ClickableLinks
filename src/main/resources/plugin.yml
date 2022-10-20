@@ -1,0 +1,4 @@
+name: ClickableLinks
+main: im.evan.clickablelinks.ClickableLinks
+version: 1.0.0
+api-version: 1.19
